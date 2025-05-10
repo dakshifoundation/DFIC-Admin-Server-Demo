@@ -1,0 +1,70 @@
+
+
+* Function : Delete Event
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/event"
+* Protected : Yes
+* expected JSON data with field : { id } 
+
+
+* Function : Program Image
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/program-image"
+* Protected : Yes
+* expected JSON data with field : { id , program_field } 
+
+
+* Function : Delete Team Member
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/team-member"
+* Protected : Yes
+* expected JSON data with field : { id }
+
+
+* Function : Delete internships Data
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/internship-data"
+* Protected : Yes
+* expected JSON data with field : { id }
+
+* Function : Delete internships Data
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/contactus-data"
+* Protected : Yes
+* expected JSON data with field : { id } 
+
+
+* Function : Delete Partner
+* Method : POST
+* Route : "https://demo.dakshifoundation.in/admin/delete/partner"
+* Protected : Yes
+* expected JSON data with field : { id }
+
+
+
+* Function : Get All Certificates
+* Method : GET
+* Route : "https://demo.dakshifoundation.in/admin/delete/all-certificates"
+* Protected : Yes
+* expected Response : JSON data.
+
+
+* Function : Get All Invoices
+* Method : GET
+* Route : "https://demo.dakshifoundation.in/admin/delete/all-invoices"
+* Protected : Yes
+* expected Response : JSON data.
+
+
+* Function : Get All Id Cards
+* Method : GET
+* Route : "https://demo.dakshifoundation.in/admin/delete/all-idcards"
+* Protected : Yes
+* expected Response : JSON data.
+
+
+* Function : Get All Offer Letters
+* Method : GET
+* Route : "https://demo.dakshifoundation.in/admin/delete/all-offerletters"
+* Protected : Yes
+* expected Response : JSON data.
